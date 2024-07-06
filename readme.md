@@ -11,7 +11,7 @@
 Steps to build and/or run the software:
 
 1. Follow this link:
-2. https://www.tinkercad.com/things/kZYFjt44iwN-door-module?sharecode=8ottevdUhlrtyHBvZgdaHbx0SFQtZkEzAuaSlkZVoiU
+2. [https://www.tinkercad.com/things/kZYFjt44iwN-door-module?sharecode=8ottevdUhlrtyHBvZgdaHbx0SFQtZkEzAuaSlkZVoiU](https://www.tinkercad.com/things/kZYFjt44iwN-door-module/editel?returnTo=%2Fthings%2FkZYFjt44iwN-door-module%3Fsharecode%3D8ottevdUhlrtyHBvZgdaHbx0SFQtZkEzAuaSlkZVoiU&sharecode=urTVnW5Tq6YLVW3sWx9BP9AF-grV-jZ9UNSO6esglKw)
 3. Press run in the top right corner and then press all the different buttons and switches in the circuit and watch what it does! 
 
 Instructions for using the software:
